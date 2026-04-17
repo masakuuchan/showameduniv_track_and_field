@@ -1,0 +1,2 @@
+# showameduniv_track_and_field
+昭和医大の陸上部に関するwebページです
